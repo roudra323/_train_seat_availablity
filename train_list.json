@@ -1,0 +1,254 @@
+[
+    {
+        "trn_no": "737.",
+        "trn_name": "EGARO_SINDUR PROVATI",
+        "dpt_time": "07:15",
+        "off_day": "ON",
+        "prmnt_off_day": "Wed",
+        "show_btn": "E",
+        "show_selection": "E",
+        "class": "S_CHAIR",
+        "fare": "170.00",
+        "stn_from": "DHAKA",
+        "stn_to": "KISHOREGANJ",
+        "fareWithoutFormat": "170",
+        "jDate": "Saturday, 27 February",
+        "routes": [
+            {
+                "sn": "1",
+                "int_stn": "DHAKA",
+                "dpt_time": "07:15",
+                "arr_time": null
+            },
+            {
+                "sn": "2",
+                "int_stn": "BIMAN_BANDAR",
+                "dpt_time": "07:47",
+                "arr_time": null
+            },
+            {
+                "sn": "3",
+                "int_stn": "NARSINGDI",
+                "dpt_time": "08:33",
+                "arr_time": null
+            },
+            {
+                "sn": "4",
+                "int_stn": "BHAIRAB_BAZAR",
+                "dpt_time": "09:26",
+                "arr_time": null
+            },
+            {
+                "sn": "5",
+                "int_stn": "KULIARCHAR",
+                "dpt_time": "09:50",
+                "arr_time": null
+            },
+            {
+                "sn": "6",
+                "int_stn": "BAJITPUR",
+                "dpt_time": "10:00",
+                "arr_time": null
+            },
+            {
+                "sn": "7",
+                "int_stn": "SARARCHAR",
+                "dpt_time": "10:10",
+                "arr_time": null
+            },
+            {
+                "sn": "8",
+                "int_stn": "MANIK_KHALI",
+                "dpt_time": "10:32",
+                "arr_time": null
+            },
+            {
+                "sn": "9",
+                "int_stn": "GACHIHATA",
+                "dpt_time": "10:44",
+                "arr_time": null
+            },
+            {
+                "sn": "10",
+                "int_stn": "KISHOREGANJ",
+                "dpt_time": "11:15",
+                "arr_time": null
+            }
+        ],
+        "duration": "4 hours",
+        "arrivalDate": "Saturday, 27 February",
+        "isTrainLeft": "NO"
+    },
+    {
+        "trn_no": "781.",
+        "trn_name": "KISHOREGANJ_EXPRESS",
+        "dpt_time": "10:45",
+        "off_day": "ON",
+        "prmnt_off_day": "Fri",
+        "show_btn": "E",
+        "show_selection": "E",
+        "class": "S_CHAIR",
+        "fare": "170.00",
+        "stn_from": "DHAKA",
+        "stn_to": "KISHOREGANJ",
+        "fareWithoutFormat": "170",
+        "jDate": "Saturday, 27 February",
+        "routes": [
+            {
+                "sn": "1",
+                "int_stn": "DHAKA",
+                "dpt_time": "10:45",
+                "arr_time": null
+            },
+            {
+                "sn": "2",
+                "int_stn": "BIMAN_BANDAR",
+                "dpt_time": "11:17",
+                "arr_time": null
+            },
+            {
+                "sn": "3",
+                "int_stn": "NARSINGDI",
+                "dpt_time": "12:02",
+                "arr_time": null
+            },
+            {
+                "sn": "4",
+                "int_stn": "METHIKANDA",
+                "dpt_time": "12:22",
+                "arr_time": null
+            },
+            {
+                "sn": "5",
+                "int_stn": "BHAIRAB_BAZAR",
+                "dpt_time": "13:00",
+                "arr_time": null
+            },
+            {
+                "sn": "6",
+                "int_stn": "KULIARCHAR",
+                "dpt_time": "13:27",
+                "arr_time": null
+            },
+            {
+                "sn": "7",
+                "int_stn": "BAJITPUR",
+                "dpt_time": "13:37",
+                "arr_time": null
+            },
+            {
+                "sn": "8",
+                "int_stn": "SARARCHAR",
+                "dpt_time": "13:47",
+                "arr_time": null
+            },
+            {
+                "sn": "9",
+                "int_stn": "MANIK_KHALI",
+                "dpt_time": "14:15",
+                "arr_time": null
+            },
+            {
+                "sn": "10",
+                "int_stn": "GACHIHATA",
+                "dpt_time": "14:27",
+                "arr_time": null
+            },
+            {
+                "sn": "11",
+                "int_stn": "KISHOREGANJ",
+                "dpt_time": "15:00",
+                "arr_time": null
+            }
+        ],
+        "duration": "4 hours 15 minutes",
+        "arrivalDate": "Saturday, 27 February",
+        "isTrainLeft": "NO"
+    },
+    {
+        "trn_no": "749.",
+        "trn_name": "EGARO_SINDUR_GODHULI",
+        "dpt_time": "18:40",
+        "off_day": "ON",
+        "prmnt_off_day": null,
+        "show_btn": "E",
+        "show_selection": "E",
+        "class": "S_CHAIR",
+        "fare": "170.00",
+        "stn_from": "DHAKA",
+        "stn_to": "KISHOREGANJ",
+        "fareWithoutFormat": "170",
+        "jDate": "Saturday, 27 February",
+        "routes": [
+            {
+                "sn": "1",
+                "int_stn": "DHAKA",
+                "dpt_time": "18:40",
+                "arr_time": null
+            },
+            {
+                "sn": "2",
+                "int_stn": "BIMAN_BANDAR",
+                "dpt_time": "19:12",
+                "arr_time": null
+            },
+            {
+                "sn": "3",
+                "int_stn": "NARSINGDI",
+                "dpt_time": "20:02",
+                "arr_time": null
+            },
+            {
+                "sn": "4",
+                "int_stn": "METHIKANDA",
+                "dpt_time": "20:24",
+                "arr_time": null
+            },
+            {
+                "sn": "5",
+                "int_stn": "BHAIRAB_BAZAR",
+                "dpt_time": "21:02",
+                "arr_time": null
+            },
+            {
+                "sn": "6",
+                "int_stn": "KULIARCHAR",
+                "dpt_time": "21:28",
+                "arr_time": null
+            },
+            {
+                "sn": "7",
+                "int_stn": "BAJITPUR",
+                "dpt_time": "21:40",
+                "arr_time": null
+            },
+            {
+                "sn": "8",
+                "int_stn": "SARARCHAR",
+                "dpt_time": "21:52",
+                "arr_time": null
+            },
+            {
+                "sn": "9",
+                "int_stn": "MANIK_KHALI",
+                "dpt_time": "22:12",
+                "arr_time": null
+            },
+            {
+                "sn": "10",
+                "int_stn": "GACHIHATA",
+                "dpt_time": "22:24",
+                "arr_time": null
+            },
+            {
+                "sn": "11",
+                "int_stn": "KISHOREGANJ",
+                "dpt_time": "22:45",
+                "arr_time": null
+            }
+        ],
+        "duration": "4 hours 5 minutes",
+        "arrivalDate": "Saturday, 27 February",
+        "isTrainLeft": "NO"
+    }
+]

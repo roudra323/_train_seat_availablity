@@ -1,0 +1,41 @@
+{
+    "STATUS": {
+        "CODE": "1",
+        "MSG": "84 SEATS ARE AVAILABLE"
+    },
+    "DATA": [
+        {
+            "CLASS": "F_CHAIR",
+            "FARE": "200",
+            "FARE_C": "135",
+            "COUNTER_SEAT": "20",
+            "MOBILE_SEAT": "22",
+            "COUNTER_ONLY": "N"
+        },
+        {
+            "CLASS": "F_SEAT",
+            "FARE": "200",
+            "FARE_C": "135",
+            "COUNTER_SEAT": "0",
+            "MOBILE_SEAT": "2",
+            "COUNTER_ONLY": "N"
+        },
+        {
+            "CLASS": "SHOVAN",
+            "FARE": "125",
+            "FARE_C": "85",
+            "COUNTER_SEAT": "37",
+            "MOBILE_SEAT": "46",
+            "COUNTER_ONLY": "N"
+        },
+        {
+            "CLASS": "S_CHAIR",
+            "FARE": "150",
+            "FARE_C": "100",
+            "COUNTER_SEAT": "44",
+            "MOBILE_SEAT": "40",
+            "COUNTER_ONLY": "N"
+        }
+    ],
+    "TRN_NO": "737."
+}
